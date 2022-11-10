@@ -1,0 +1,179 @@
+.containerMain {
+
+    /*  background-image: url('https://мойбизнес14.рф/wp-content/uploads/2022/10/bussn-abroad1.jpg'); !* Современные браузеры *!*/
+    background: url('https://kubantv.ru/storage/photos/shares/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%2034.jpg') rgba(0, 0, 0, 0.6) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+width: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow: hidden;
+
+    background-blend-mode: multiply;
+
+
+
+
+
+
+}
+
+.mm{
+    display: flex;
+
+    position: fixed;
+    z-index: 50;
+    min-height: 100vh;
+    min-width: auto;
+}
+.locaionAll {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    min-width: auto;
+
+
+}
+
+
+.locationBut {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.h1 {
+
+
+    left: 50%;
+    padding-top: 150px;
+
+    padding-bottom: 150px;
+    font: 400 70px/1.2 'Roboto Condensed', serif;
+    width: 600px !important;
+
+    line-height: 1.3em !important;
+    text-transform: Uppercase !important;
+
+}
+
+.divh1{
+    display: flex;
+    justify-content: flex-start;
+    color: #FFFFFF;
+}
+
+
+.button {
+    display: inline-block;
+    border-radius: 7px;
+  /*  background-color: #26c3c9;*/
+    background-color: #4ca3c4;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 140px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 15px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.button1 {
+    display: inline-block;
+    border-radius: 7px;
+    /*  background-color: #26c3c9;*/
+    background-color: #4ca3c4;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 5px;
+    width: 140px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.button1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+
+}
+
+.button1 span:after {
+    content: '\00ab';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 20px;
+    transition: 0.5s;
+}
+
+.button1:hover span {
+    padding-left: 15px;
+
+}
+
+.button1:hover span:after {
+    opacity: 1;
+    left: 0;
+}
+
+
+@media screen and (min-width: 1129px) {
+    .mm {
+        justify-content: space-between;
+    }
+}
+@media screen and (min-width: 1129px) {
+    .locaionAll {
+        text-align: center;;
+    }
+}
+    @media screen and (min-width: 1129px) {
+        .h1 {
+            text-align: center;;
+        }
+    }
+    @media screen and (min-width: 1129px) {
+        .h1b {
+            text-align: center;;
+        }
+}

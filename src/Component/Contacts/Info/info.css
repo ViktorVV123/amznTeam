@@ -1,0 +1,20 @@
+.info{
+
+
+    /*  background-image: url('https://мойбизнес14.рф/wp-content/uploads/2022/10/bussn-abroad1.jpg'); !* Современные браузеры *!*/
+    background: url('https://kubantv.ru/storage/photos/shares/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%2034.jpg') rgba(0, 0, 0, 0.6) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow: hidden;
+
+    background-blend-mode: multiply;
+
+}
