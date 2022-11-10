@@ -1,0 +1,178 @@
+.containerMain {
+
+    /*  background-image: url('https://мойбизнес14.рф/wp-content/uploads/2022/10/bussn-abroad1.jpg'); !* Современные браузеры *!*/
+    background: url('https://мойбизнес14.рф/wp-content/uploads/2022/10/bussn-abroad1.jpg') no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.6;
+    min-height: 100vh;
+
+
+
+}
+
+.mm{
+    display: flex;
+
+    position: fixed;
+    z-index: 50;
+    min-height: 100vh;
+    min-width: auto;
+}
+.locaionAll {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    min-width: auto;
+
+}
+
+
+.locationBut {
+    display: flex;
+    justify-content: center;
+
+}
+
+.h1 {
+    padding-top: 150px;
+    padding-right: 50px;
+    padding-bottom: 150px;
+    padding-left: 50px;
+    text-align: center;
+    font: 700 90px/1.2 'Nunito', serif;
+    background-image: linear-gradient(to right, #4ca3c4 70%, #37518a);
+    color: transparent;
+    background-clip: content-box;
+    -webkit-background-clip: text;
+
+}
+.h1b {
+    padding-top: 150px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+    padding-left: 150px;
+    text-align: center;
+    font: 1000 60px/1.2 'Nunito', serif;
+    background-image: linear-gradient(to right, #4ca3c4 10%, #060b13);
+    color: transparent;
+    background-clip: content-box;
+    -webkit-background-clip: text;
+}
+.divh1{
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+
+.button {
+    display: inline-block;
+    border-radius: 7px;
+  /*  background-color: #26c3c9;*/
+    background-color: #4ca3c4;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 180px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 30px;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.button1 {
+    display: inline-block;
+    border-radius: 7px;
+    /*  background-color: #26c3c9;*/
+    background-color: #4ca3c4;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 180px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 30px;
+}
+
+.button1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+
+}
+
+.button1 span:after {
+    content: '\00ab';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 20px;
+    transition: 0.5s;
+}
+
+.button1:hover span {
+    padding-left: 25px;
+
+}
+
+.button1:hover span:after {
+    opacity: 1;
+    left: 0;
+}
+
+
+@media screen and (min-width: 1129px) {
+    .mm {
+        justify-content: space-between;
+    }
+}
+@media screen and (min-width: 1129px) {
+    .locaionAll {
+        text-align: center;;
+    }
+}
+    @media screen and (min-width: 1129px) {
+        .h1 {
+            text-align: center;;
+        }
+    }
+    @media screen and (min-width: 1129px) {
+        .h1b {
+            text-align: center;;
+        }
+}

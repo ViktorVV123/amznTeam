@@ -1,0 +1,41 @@
+.divContainer {
+
+       min-width: 100px;
+       min-height: 200px;
+       margin: 40px;
+       padding-top: 0px;
+       padding-right: 20px;
+       padding-bottom: 0px;
+       padding-left: 20px;
+       text-align: center;
+       font-size: 16px;
+       line-height: 1.6;
+       background-color: #ffffffff;
+
+
+}
+
+.textStyle1{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    overflow-wrap: break-word;
+}
+.textStyle{
+     font: 200 30px/1.6 'Lora', serif;
+     padding-top: 0px;
+     padding-right: 20px;
+     padding-bottom: 0px;
+     padding-left: 20px;
+}
+
+.icon {
+    height: 150px;
+    width: 150px;
+    font-variation-settings: 'FILL' 100,
+    'wght' 400,
+    'GRAD' 100,
+    'opsz' 100
+
+}
