@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amznTeam/static/css/main.866f927b.css",
-    "main.js": "/amznTeam/static/js/main.3e13e72d.js",
+    "main.css": "/amznTeam/static/css/main.1b11a761.css",
+    "main.js": "/amznTeam/static/js/main.435824a0.js",
     "static/js/787.28cb0dcd.chunk.js": "/amznTeam/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/amznTeam/index.html",
-    "main.866f927b.css.map": "/amznTeam/static/css/main.866f927b.css.map",
-    "main.3e13e72d.js.map": "/amznTeam/static/js/main.3e13e72d.js.map",
+    "main.1b11a761.css.map": "/amznTeam/static/css/main.1b11a761.css.map",
+    "main.435824a0.js.map": "/amznTeam/static/js/main.435824a0.js.map",
     "787.28cb0dcd.chunk.js.map": "/amznTeam/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.866f927b.css",
-    "static/js/main.3e13e72d.js"
+    "static/css/main.1b11a761.css",
+    "static/js/main.435824a0.js"
   ]
 }
