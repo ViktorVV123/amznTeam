@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/amznTeam/static/css/main.1b11a761.css",
-    "main.js": "/amznTeam/static/js/main.435824a0.js",
+    "main.css": "/amznTeam/static/css/main.f3b908b5.css",
+    "main.js": "/amznTeam/static/js/main.700b6ccb.js",
     "static/js/787.28cb0dcd.chunk.js": "/amznTeam/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bis.jpg": "/amznTeam/static/media/bis.520cbcd5ab714c61d94f.jpg",
     "index.html": "/amznTeam/index.html",
-    "main.1b11a761.css.map": "/amznTeam/static/css/main.1b11a761.css.map",
-    "main.435824a0.js.map": "/amznTeam/static/js/main.435824a0.js.map",
+    "main.f3b908b5.css.map": "/amznTeam/static/css/main.f3b908b5.css.map",
+    "main.700b6ccb.js.map": "/amznTeam/static/js/main.700b6ccb.js.map",
     "787.28cb0dcd.chunk.js.map": "/amznTeam/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b11a761.css",
-    "static/js/main.435824a0.js"
+    "static/css/main.f3b908b5.css",
+    "static/js/main.700b6ccb.js"
   ]
 }
