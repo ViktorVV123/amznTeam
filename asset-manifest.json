@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/amznTeam/static/css/main.f3b908b5.css",
-    "main.js": "/amznTeam/static/js/main.700b6ccb.js",
+    "main.css": "/amznTeam/static/css/main.2aefc4ce.css",
+    "main.js": "/amznTeam/static/js/main.a11473f4.js",
     "static/js/787.28cb0dcd.chunk.js": "/amznTeam/static/js/787.28cb0dcd.chunk.js",
     "static/media/bis.jpg": "/amznTeam/static/media/bis.520cbcd5ab714c61d94f.jpg",
     "index.html": "/amznTeam/index.html",
-    "main.f3b908b5.css.map": "/amznTeam/static/css/main.f3b908b5.css.map",
-    "main.700b6ccb.js.map": "/amznTeam/static/js/main.700b6ccb.js.map",
+    "static/media/query_stats_FILL0.svg": "/amznTeam/static/media/query_stats_FILL0.c14f2086b76d41344c487f454b9cf3ac.svg",
+    "static/media/looks_three.svg": "/amznTeam/static/media/looks_three.ec38146fbff30d00298158f321a99a85.svg",
+    "static/media/looks_two.svg": "/amznTeam/static/media/looks_two.d8089f5290b2f036634cd69ddfab1dac.svg",
+    "static/media/account_tree_FILL0.svg": "/amznTeam/static/media/account_tree_FILL0.299fb83efd74bf02b084f9f299ecff4b.svg",
+    "static/media/description.svg": "/amznTeam/static/media/description.0de75bea90bc7148a1c1483975e0938f.svg",
+    "static/media/looks_four.svg": "/amznTeam/static/media/looks_four.896d9fea9ed050ce45412a17c707a196.svg",
+    "static/media/looksone.svg": "/amznTeam/static/media/looksone.52a704daa9371ed0c5f32fa8b7d6372d.svg",
+    "static/media/monitoring_FILL0.svg": "/amznTeam/static/media/monitoring_FILL0.128ec1a2d15861bc67af3ae862a68ae0.svg",
+    "static/media/leaderboard_FILL0.svg": "/amznTeam/static/media/leaderboard_FILL0.83f04f1b1b20d383e6bd66a393bd8c24.svg",
+    "main.2aefc4ce.css.map": "/amznTeam/static/css/main.2aefc4ce.css.map",
+    "main.a11473f4.js.map": "/amznTeam/static/js/main.a11473f4.js.map",
     "787.28cb0dcd.chunk.js.map": "/amznTeam/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3b908b5.css",
-    "static/js/main.700b6ccb.js"
+    "static/css/main.2aefc4ce.css",
+    "static/js/main.a11473f4.js"
   ]
 }
