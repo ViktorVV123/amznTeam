@@ -1,0 +1,32 @@
+.fivePage{
+    text-align: center;
+    background-color: #ffffff;
+    width: 100%;
+    padding: 10px;
+}
+.containerFive{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    flex-wrap: wrap;
+
+}
+.containerAllFive{
+    min-width: 250px;
+    min-height: 250px;
+}
+.imageFive{
+    padding: 10px;
+    margin: 10px;
+
+}
+.textFive{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    min-height: 100px;
+    min-width: 100px;
+
+}
